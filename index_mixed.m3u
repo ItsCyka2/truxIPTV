@@ -1,0 +1,129 @@
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz, https://jeromelaliag.link/iptv/epg.xml.php"
+
+#EXTM3U
+
+#EXTINF:-1 tvg-name="BYUtv" tvg-logo="https://i.imgur.com/jq1Jq69.png",BYU TV
+https://content.uplynk.com/channel/2f29cb20fcb74f68a85c38b99ca384bc.m3u8
+
+#EXTINF:-1 tvg-name="Sony Movie Channel" tvg-logo="https://sonymovies.com/sites/sonymovies/themes/custom/sonymovies/logo.png",Sony Movie Channel 
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8 
+
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://i.postimg.cc/qvnLcRqn/HBO-Family.png",HBO Family
+http://170.254.18.106/HBO_FAMILY/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="HBO Signiture" tvg-logo="https://i.postimg.cc/TYZQ6STM/8047802smbenknl54d1qi40m9m-320b8e1b7abb5c846e89cb9ad3ca8e39.png",HBO Signature
+http://170.254.18.106/HBO_SIG/index.m3u8
+
+#EXTINF:-1 tvg-name="HBO Plus" tvg-logo="https://i.postimg.cc/mrfmK9J8/hbo.png",HBO Plus
+http://170.254.18.106/HBO_PLUS/index.m3u8
+
+#EXTINF:-1 tvg-name="HBO 2" tvg-logo="https://ia804502.us.archive.org/33/items/logo.brootv_hbo/HBO_2.png",HBO 2
+http://170.254.18.106/HBO2/index.m3u8
+
+#EXTINF:-1 tvg-name="HBO Xtreme" tvg-logo="https://i.postimg.cc/ydQXrpLG/hboxtreme.png",HBO Xtreme
+http://170.254.18.106/HBO_XTREME/index.m3u8
+
+#EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",HBO Hits
+https://z88.ubtvfans.com/live/rx1/330/c990900a99eee375a426b8200e7f150f/index.m3u8
+
+#EXTINF:-1 tvg-name="Lotus Macau" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png",Lotus Macau
+https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
+
+#EXTINF:-1 tvg-name="TV5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_%28Philippines%29_logo.svg/1024px-TV5_%28Philippines%29_logo.svg.png",TV5 HD
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
+
+#EXTINF:-1 tvg-name="RPTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/RPTV_%282024%29.svg/200px-RPTV_%282024%29.svg.png",RPTV HD
+https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/cnn_rptv_prod_hd.m3u8
+
+#EXTINF:-1 tvg-name="GMA News TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/GMA_News_TV_Logo_Vector.svg/220px-GMA_News_TV_Logo_Vector.svg.pngy", GMA News TV 
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16683 
+
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png", NBA TV 
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7161
+
+#EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paramount_Network_%28Blue%29_Logo.png", Paramount Network
+http://170.254.18.106/PARAMOUNT/index.m3u8
+
+#EXTINF:-1 tvg-name="Warner TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" ,Warner TV
+http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16783 
+
+#EXTINF:-1 tvg-name="Korean Central Television" tvg-logo="https://i.imgur.com/zmaIwzV.png",Korean Central Television
+https://tv.nknews.org/tvdash/stream.mpd
+
+#EXTINF:-1 tvg-name="ANC" tvg-logo="https://img.mytfc.com/cmsroot/abscms/media/mytfctv/channels/anc/anc-logo.png",ANC
+https://ancglobal-abscbn-ono.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Teleradyo Serbisyo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/1200px-TeleRadyo_Serbisyo_logo.svg.png",Telradyo Serbisyo
+https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1 tvg-name="TrueFM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Radyo5truefmlogo.webp/220px-Radyo5truefmlogo.webp.png",TrueFM TV
+https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/truefm_tv.m3u8
+
+#EXTINF:-1 tvg-name="VOA" tvg-logo="https://www.voanews.com/Content/responsive/VOA/img/image-placeholder.svg",VOA 
+https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
+
+#EXTINF:-1 tvg-name="Bloomberg TV+" tvg-logo="https://tbivision.com/files/2019/10/Bloomberg.png",Bloomberg TV+
+https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CNN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/600px-CNN_International_logo.svg.png",CNN HD1
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN 
+http://143.244.60.30/ESPN/index.m3u8
+
+#EXTINF:-1 tvg-name="NHK E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/NHK_Educational_TV_logo.png",NHK E
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+
+#EXTINF:-1 tvg-name="NHK G" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/NHK総合ロゴ2020-.svg",NHK G
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
+
+#EXTINF:-1 tvg-name="NHK BSP4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/NHK_BS4K.svg",NHK BSP4K
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+
+#EXTINF:-1 tvg-name="TV Tokyo" tvg-logo="https://i.imgur.com/tDyxk0Y.png",TV Tokyo 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
+
+#EXTINF:-1 tvg-name="PBS Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/220px-PBS_Kids_logo_%282022%29.svg.png",PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-1 tvg-name="KBS World" tvg-logo="https://static.cdnlogo.com/logos/k/68/kbs-world.svg",KBS World
+https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="K+" tvg-logo="http://www.kplus-asia.com/img/title/logo.png",K+
+http://210.210.155.37/uq2663/h/h08/index.m3u8
+
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://i.postimg.cc/s2XcZJk6/cn.png",Cartoon Network
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+
+#EXTINF:-1 tvg-name="Cartoonito HD" tvg-logo="https://i.postimg.cc/htVMBj9s/Cartoonito-logo-2021-alternate.png", Cartoonito HD
+https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
+
+#EXTINF:-1 tvg-name="BBC News" tvg-logo="",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1, tvg-name="BBC One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/190px-BBC_One_logo_2021.svg.png",BBC One 
+http://185.189.225.200:8085/BBC1/index.m3u8
+
+#EXTINF:-1  tvg-name="BBC Two" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png",BBC Two
+http://185.189.225.200:8085/BBC2/index.m3u8
+
+#EXTINF:-1  tvg-name="BBC Radio 1" tvg-logo="https://i.imgur.com/ULEiMU8.png",BBC Radio 1
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_radio_one.mpd
+ 
+#EXTINF:-1  tvg-name="BBC Radio 1 Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/BBC_Radio_1_Relax_2022.svg/150px-BBC_Radio_1_Relax_2022.svg.png",BBC Radio 1 Relax
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_radio_one_relax.mpd
+
+#EXTINF:-1  tvg-name="BBC Radio 1 Dance" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/BBC_Radio_1_Dance_2022.svg/150px-BBC_Radio_1_Dance_2022.svg.png",BBC Radio 1 Dance
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_radio_one_dance.mpd
+
+#EXTINF:-1  tvg-name="BBC Radio 1Xtra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BBC_Radio_1Xtra_2021.svg/150px-BBC_Radio_1Xtra_2021.svg.png",BBC Radio 1Xtra
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_1xtra.mpd
+
+#EXTINF:-1  tvg-name="BBC Radio 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/BBC_Radio_2.svg/120px-BBC_Radio_2.svg.png",BBC Radio 2
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_radio_two.mpd
+
+#EXTINF:-1  tvg-name="BBC Radio 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BBC_Radio_3_2022.svg/150px-BBC_Radio_3_2022.svg.png",BBC Radio 3
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_radio_three.mpd
+
+#EXTINF:-1  tvg-name="BBC Asian Network" tvg-logo="https://i.imgur.com/Jv7zYcO.png",BBC Asian Network
+https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_asian_network.mpd
