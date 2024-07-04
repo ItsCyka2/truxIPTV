@@ -56,6 +56,9 @@ https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-name="FX East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1000px-FX_International_logo.svg.png", FX East
 http://fl2.moveonjoy.com/FX/index.m3u8
 
+#EXTINF:-1 tvg-name="FXX" tvg-logo="",FXX
+http://84.17.40.25/FXX/index.m3u8
+
 #EXTINF:-1 tvg-name="VOA" tvg-logo="https://www.voanews.com/Content/responsive/VOA/img/image-placeholder.svg",VOA 
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
 
