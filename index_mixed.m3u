@@ -29,17 +29,14 @@ https://z88.ubtvfans.com/live/rx1/330/c990900a99eee375a426b8200e7f150f/index.m3u
 #EXTINF:-1 tvg-name="Lotus Macau" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png",Lotus Macau
 https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 
+#EXTINF:-1 tvg-name="Nick Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/1280px-NickMusic.svg.png", Nick Music
+http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
+
+#EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/MTV_Live_%28orange%29.svg/revision/latest?cb=20220317014118", MTV Live
+https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+
 #EXTINF:-1 tvg-name="TV5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_%28Philippines%29_logo.svg/1024px-TV5_%28Philippines%29_logo.svg.png",TV5 HD
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
-
-#EXTINF:-1 tvg-name="RPTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/RPTV_%282024%29.svg/200px-RPTV_%282024%29.svg.png",RPTV HD
-https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/cnn_rptv_prod_hd.m3u8
-
-#EXTINF:-1 tvg-name="GMA News TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/GMA_News_TV_Logo_Vector.svg/220px-GMA_News_TV_Logo_Vector.svg.pngy", GMA News TV 
-http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16683 
-
-#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png", NBA TV 
-http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/7161
 
 #EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paramount_Network_%28Blue%29_Logo.png", Paramount Network
 http://170.254.18.106/PARAMOUNT/index.m3u8
@@ -56,8 +53,8 @@ https://ancglobal-abscbn-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Teleradyo Serbisyo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/1200px-TeleRadyo_Serbisyo_logo.svg.png",Telradyo Serbisyo
 https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
-#EXTINF:-1 tvg-name="TrueFM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Radyo5truefmlogo.webp/220px-Radyo5truefmlogo.webp.png",TrueFM TV
-https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/truefm_tv.m3u8
+#EXTINF:-1 tvg-name="FX East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1000px-FX_International_logo.svg.png", FX East
+http://fl2.moveonjoy.com/FX/index.m3u8
 
 #EXTINF:-1 tvg-name="VOA" tvg-logo="https://www.voanews.com/Content/responsive/VOA/img/image-placeholder.svg",VOA 
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
@@ -91,6 +88,9 @@ https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="K+" tvg-logo="http://www.kplus-asia.com/img/title/logo.png",K+
 http://210.210.155.37/uq2663/h/h08/index.m3u8
+
+#EXTINF:-1 tvg-name="Cartoon Network UK Feed" tvg-logo="https://i.postimg.cc/s2XcZJk6/cn.png",Cartoon Network UK Feed
+https://dvrfl07.bozztv.com/astv-cartoonnetwork/index.m3u8
 
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://i.postimg.cc/s2XcZJk6/cn.png",Cartoon Network
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
