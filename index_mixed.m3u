@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_JP1.xml.gz, https://jeromelaliag.link/iptv/epg.xml.php"
+#EXTM3U x-tvg-url="https://jeromelaliag.link/iptv/epg.xml.php"
 
 #EXTM3U
 
@@ -56,7 +56,7 @@ https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-name="FX East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1000px-FX_International_logo.svg.png", FX East
 http://fl2.moveonjoy.com/FX/index.m3u8
 
-#EXTINF:-1 tvg-name="FXX" tvg-logo="",FXX
+#EXTINF:-1 tvg-name="FXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/170px-FXX_Logo.svg.png",FXX
 http://84.17.40.25/FXX/index.m3u8
 
 #EXTINF:-1 tvg-name="VOA" tvg-logo="https://www.voanews.com/Content/responsive/VOA/img/image-placeholder.svg",VOA 
@@ -65,8 +65,15 @@ https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
 #EXTINF:-1 tvg-name="Bloomberg TV+" tvg-logo="https://tbivision.com/files/2019/10/Bloomberg.png",Bloomberg TV+
 https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-name="CNN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/600px-CNN_International_logo.svg.png",CNN HD1
+#EXTINF:-1 tvg-name="CNN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png,CNN 1
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-name="CNN US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN 2
+https://fl2.moveonjoy.com/CNN/index.m3u8
+
+#EXTINF:-1 tvg-name="MSNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/MSNBC_2023.svg/250px-MSNBC_2023.svg.png",MSNBC
+https://fl2.moveonjoy.com/MSNBC/index.m3u8
+
 
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN 
 http://143.244.60.30/ESPN/index.m3u8
@@ -92,10 +99,10 @@ https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="K+" tvg-logo="http://www.kplus-asia.com/img/title/logo.png",K+
 http://210.210.155.37/uq2663/h/h08/index.m3u8
 
-#EXTINF:-1 tvg-name="Cartoon Network UK Feed" tvg-logo="https://i.postimg.cc/s2XcZJk6/cn.png",Cartoon Network UK Feed
+#EXTINF:-1 tvg-name="Cartoon Network UK Feed" tvg-logo="https://i.postimg.cc/s2XcZJk6/cn.png",Cartoon Network East
 https://dvrfl07.bozztv.com/astv-cartoonnetwork/index.m3u8
 
-#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://i.postimg.cc/s2XcZJk6/cn.png",Cartoon Network
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://i.postimg.cc/s2XcZJk6/cn.png",Cartoon Network Asia
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 
 #EXTINF:-1 tvg-name="Cartoonito HD" tvg-logo="https://i.postimg.cc/htVMBj9s/Cartoonito-logo-2021-alternate.png", Cartoonito HD
