@@ -32,8 +32,18 @@ https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 #EXTINF:-1 tvg-name="Nick Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/1280px-NickMusic.svg.png", Nick Music
 http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
 
+#EXTINF:-1 tvg-name="MTV" tvg-logo="",MTV
+http://fl2.moveonjoy.com/MTV/index.m3u8
+
+#EXTINF:-1 tvg-name="MTV U" tvg-logo="",MTV U
+http://fl2.moveonjoy.com/MTV_U/index.m3u8
+
 #EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/MTV_Live_%28orange%29.svg/revision/latest?cb=20220317014118", MTV Live
 https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+
+#EXTINF:-1 tvg-name="VH1" tvg-logo="",VH1
+http://212.102.60.231/VH1/index.m3u8
+
 
 #EXTINF:-1 tvg-name="TV5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_%28Philippines%29_logo.svg/1024px-TV5_%28Philippines%29_logo.svg.png",TV5 HD
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
