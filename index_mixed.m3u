@@ -41,6 +41,10 @@ http://fl2.moveonjoy.com/MTV_U/index.m3u8
 #EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/MTV_Live_%28orange%29.svg/revision/latest?cb=20220317014118", MTV Live
 https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 
+
+#EXTINF:-1 tvg-name="MTV Classic" tvg-logo="",MTV Classic
+http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
+
 #EXTINF:-1 tvg-name="VH1" tvg-logo="",VH1
 http://212.102.60.231/VH1/index.m3u8
 
