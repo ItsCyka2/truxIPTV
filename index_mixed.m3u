@@ -35,9 +35,9 @@ http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.HDTV.(East).(HBOHD).us" tvg-name="HBO East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",HBO East
 http://fl2.moveonjoy.com/HBO/index.m3u8
+
 #EXTINF:-1 tvg-id="HBO.2.HDTV.(East).(HBO2HD).us" tvg-name="HBO2 East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO2 East
 http://fl2.moveonjoy.com/HBO_2/index.m3u8
-
 
 #EXTINF:-1 tvg-id="" tvg-name="Lotus Macau" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png",Lotus Macau
 https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
@@ -60,14 +60,11 @@ http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-name="VH1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/VH1_logo.svg/220px-VH1_logo.svg.png",VH1
 http://212.102.60.231/VH1/index.m3u8
 
-#EXTINF:-1 tvg-id="10" tvg-name="TV5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_%28Philippines%29_logo.svg/1024px-TV5_%28Philippines%29_logo.svg.png",TV5 HD
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paramount_Network_%28Blue%29_Logo.png", Paramount Network
 http://170.254.18.106/PARAMOUNT/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" ,Warner TV
-http://ufospeeds.com:2095/LonB/9jfBMQvuYPt3/16783 
+#EXTINF:-1 tvg-id="Comedy.Central.HDTV.(East).(CMDHD).us" tvg-name="COMEDY_CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/800px-Comedy_Central_2018.svg.png",Comedy Central
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Korean Central Television" tvg-logo="https://i.imgur.com/zmaIwzV.png",Korean Central Television
 https://tv.nknews.org/tvdash/stream.mpd
