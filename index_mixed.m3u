@@ -11,6 +11,12 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg",WWE NETWORK 
 http://fl2.moveonjoy.com/WWE/index.m3u8
 
+#EXTINF:-1 tvg-id="National.Geographic.Channel.HDTV.(NGCHD).us" tvg-name="National Geographic East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1024px-Natgeologo.svg.png" group-title="USA",    National Geographic East
+http://fl2.moveonjoy.com/National_Geographic/index.m3u8
+
+#EXTINF:-1 tvg-id="The.Golf.Channel.HDTV.(GLFHD).us" tvg-name="NBC Golf" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/07/golf_render_-rgb.png" group-title="USA",    NBC Golf
+http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
+
 #EXTINF:-1 tvg-id="Turner.Network.Television.HDTV.(East).(TNTHD).us" tvg-name="TNT East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png",TNT East
 http://fl2.moveonjoy.com/TNT/index.m3u8
 
@@ -41,26 +47,26 @@ http://fl2.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Lotus Macau" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png",Lotus Macau
 https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Nick Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/1280px-NickMusic.svg.png", Nick Music
+#EXTINF:-1 tvg-id="Nick.Music.(NICM).us" tvg-name="Nick Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/1280px-NickMusic.svg.png", Nick Music
 http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-closed-captions tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/220px-MTV_2021_%28brand_version%29.svg.png",MTV
+#EXTINF:-1 tvg-id="MTV.HDTV.(East).(MTVHD).us" tvg-name="MTV" tvg-closed-captions tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/220px-MTV_2021_%28brand_version%29.svg.png",MTV
 http://fl2.moveonjoy.com/MTV/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV U" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/MTVU_Logo_%282016%E2%80%93present%29.svg/200px-MTVU_Logo_%282016%E2%80%93present%29.svg.png",MTV U
+#EXTINF:-1 tvg-id="MTV-U.(MTV-U).us" tvg-name="mtvU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/MTVU_Logo_%282016%E2%80%93present%29.svg/200px-MTVU_Logo_%282016%E2%80%93present%29.svg.png",MTV U
 http://fl2.moveonjoy.com/MTV_U/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV Live" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/MTV_Live_%28orange%29.svg/revision/latest?cb=20220317014118", MTV Live
+#EXTINF:-1 tvg-id="MTV.Live.HDTV.(MTVL).us" tvg-name="MTV Live" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/MTV_Live_%28orange%29.svg/revision/latest?cb=20220317014118", MTV Live
 https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MTV Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/200px-MTV_Classic_US.svg.png",MTV Classic
+#EXTINF:-1 tvg-id="MTV.Classic.(East).(MTVCL).us" tvg-name="MTV Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/200px-MTV_Classic_US.svg.png",MTV Classic
 http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
 
 #EXTINF:-1 tvg-id=""tvg-name="VH1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/VH1_logo.svg/220px-VH1_logo.svg.png",VH1
 http://212.102.60.231/VH1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paramount_Network_%28Blue%29_Logo.png", Paramount Network
-http://170.254.18.106/PARAMOUNT/index.m3u8
+#EXTINF:-1 tvg-id="Paramount.Network.HDTV.(East).(PARHD).us" tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paramount_Network_%28Blue%29_Logo.png", Paramount Network
+http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="Comedy.Central.HDTV.(East).(CMDHD).us" tvg-name="COMEDY_CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/800px-Comedy_Central_2018.svg.png",Comedy Central
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
