@@ -9,10 +9,10 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="WWE.Network.us" tvg-name="WWE Network" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg",WWE NETWORK 
 http://fl2.moveonjoy.com/WWE/index.m3u8
 
-#EXTINF:-1 tvg-id="National.Geographic.Channel.HDTV.(NGCHD).us" tvg-name="National Geographic East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1024px-Natgeologo.svg.png" group-title="USA",    National Geographic East
+#EXTINF:-1 tvg-id="National.Geographic.Channel.HDTV.(NGCHD).us" tvg-name="National Geographic East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1024px-Natgeologo.svg.png",National Geographic East
 http://fl2.moveonjoy.com/National_Geographic/index.m3u8
 
-#EXTINF:-1 tvg-id="The.Golf.Channel.HDTV.(GLFHD).us" tvg-name="NBC Golf" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/07/golf_render_-rgb.png" group-title="USA",    NBC Golf
+#EXTINF:-1 tvg-id="The.Golf.Channel.HDTV.(GLFHD).us" tvg-name="NBC Golf" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/07/golf_render_-rgb.png",NBC Golf
 http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="Turner.Network.Television.HDTV.(East).(TNTHD).us" tvg-name="TNT East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png",TNT East
@@ -60,6 +60,9 @@ https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-id="MTV.Classic.(East).(MTVCL).us" tvg-name="MTV Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/200px-MTV_Classic_US.svg.png",MTV Classic
 http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
 
+#EXTINF:-1 tvg-id="BET.Jams.(BETJ).us" tvg-name="BET Jams" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/8/8f/20210706212206%21BET_Jams_Logo.png" ,BET Jams
+http://fl3.moveonjoy.com/BET_Jams/index.m3u8
+
 #EXTINF:-1 tvg-id=""tvg-name="VH1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/VH1_logo.svg/220px-VH1_logo.svg.png",VH1
 http://212.102.60.231/VH1/index.m3u8
 
@@ -74,6 +77,12 @@ https://tv.nknews.org/tvdash/stream.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="ANC" tvg-logo="https://img.mytfc.com/cmsroot/abscms/media/mytfctv/channels/anc/anc-logo.png",ANC
 https://ancglobal-abscbn-ono.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HLN.HDTV.(HLNHD).us" tvg-name="HLN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/HLNLogo2023.svg/750px-HLNLogo2023.svg.png",    HLN
+http://fl2.moveonjoy.com/HLN/index.m3u8
+
+#EXTINF:-1 tvg-id="Fox.News.Channel.HDTV.(East).(FNCHD).us" tvg-name="FOX News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",    FOX News Channel
+http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Teleradyo Serbisyo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/1200px-TeleRadyo_Serbisyo_logo.svg.png",Telradyo Serbisyo
 https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
