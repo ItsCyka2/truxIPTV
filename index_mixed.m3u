@@ -87,6 +87,13 @@ http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Teleradyo Serbisyo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/1200px-TeleRadyo_Serbisyo_logo.svg.png",Telradyo Serbisyo
 https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="TV5 HD" tvg-logo="",TV5 HD
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TFC HD" tvg-logo="",TFC HD
+https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-id="" tvg-name="FX East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1000px-FX_International_logo.svg.png", FX East
 http://fl2.moveonjoy.com/FX/index.m3u8
 
