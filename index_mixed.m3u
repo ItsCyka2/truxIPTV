@@ -198,3 +198,6 @@ https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/s
 
 #EXTINF:-1  tvg-radio tvg-name="BBC Asian Network" tvg-logo="https://i.imgur.com/Jv7zYcO.png" radio="true",BBC Asian Network
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_asian_network.mpd
+
+#EXTINF:-1 tvg-radio tvg-name="truxRadio" tvg-logo="",truxRadio
+https://uk4freenew.listen2myradio.com/live.mp3?typeportmount=s1_11016_stream_443804397
