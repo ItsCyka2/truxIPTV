@@ -187,6 +187,7 @@ https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/s
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_radio_one_dance.mpd
 
 #EXTINF:-1  tvg-radio tvg-name="BBC Radio 1Xtra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BBC_Radio_1Xtra_2021.svg/150px-BBC_Radio_1Xtra_2021.svg.png" radio="true",BBC Radio 1Xtra
+https://ichef.bbci.co.uk/images/ic/1200x675/p09sftcx.jpg
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_1xtra.mpd
 
 #EXTINF:-1  tvg-radio tvg-name="BBC Radio 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/BBC_Radio_2.svg/120px-BBC_Radio_2.svg.png" radio="true",BBC Radio 2
