@@ -177,27 +177,29 @@ http://185.189.225.200:8085/BBC1/index.m3u8
 #EXTINF:-1  tvg-name="BBC Two" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png",BBC Two
 http://185.189.225.200:8085/BBC2/index.m3u8
 
-#EXTINF:-1  tvg-radio tvg-name="BBC Radio 1" tvg-logo="https://i.imgur.com/ULEiMU8.png" radio="true",BBC Radio 1
+#EXTINF:-1  tvg-radio="true" tvg-name="BBC Radio 1" tvg-logo="https://i.imgur.com/ULEiMU8.png" radio="true",BBC Radio 1
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_radio_one.mpd
  
-#EXTINF:-1  tvg-radio tvg-name="BBC Radio 1 Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/BBC_Radio_1_Relax_2022.svg/150px-BBC_Radio_1_Relax_2022.svg.png" radio="true",BBC Radio 1 Relax
+#EXTINF:-1  tvg-radio="true" tvg-radio tvg-name="BBC Radio 1 Relax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/BBC_Radio_1_Relax_2022.svg/150px-BBC_Radio_1_Relax_2022.svg.png" radio="true",BBC Radio 1 Relax
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_radio_one_relax.mpd
 
-#EXTINF:-1  tvg-name="BBC Radio 1 Dance" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/BBC_Radio_1_Dance_2022.svg/150px-BBC_Radio_1_Dance_2022.svg.png" radio="true",BBC Radio 1 Dance
+#EXTINF:-1  tvg-radio="true" tvg-name="BBC Radio 1 Dance" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/BBC_Radio_1_Dance_2022.svg/150px-BBC_Radio_1_Dance_2022.svg.png" radio="true",BBC Radio 1 Dance
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_radio_one_dance.mpd
 
-#EXTINF:-1  tvg-radio tvg-name="BBC Radio 1Xtra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BBC_Radio_1Xtra_2021.svg/150px-BBC_Radio_1Xtra_2021.svg.png" radio="true",BBC Radio 1Xtra
-https://ichef.bbci.co.uk/images/ic/1200x675/p09sftcx.jpg
+#EXTINF:-1  tvg-radio="true" tvg-name="BBC Radio 1Xtra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BBC_Radio_1Xtra_2021.svg/150px-BBC_Radio_1Xtra_2021.svg.png" radio="true",BBC Radio 1Xtra
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_1xtra.mpd
 
-#EXTINF:-1  tvg-radio tvg-name="BBC Radio 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/BBC_Radio_2.svg/120px-BBC_Radio_2.svg.png" radio="true",BBC Radio 2
+#EXTINF:-1  tvg-radio="true" tvg-name="BBC Radio 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/BBC_Radio_2.svg/120px-BBC_Radio_2.svg.png" radio="true",BBC Radio 2
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_radio_two.mpd
 
-#EXTINF:-1  tvg-radio tvg-name="BBC Radio 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BBC_Radio_3_2022.svg/150px-BBC_Radio_3_2022.svg.png" radio="true",BBC Radio 3
+#EXTINF:-1  tvg-radio="true" tvg-name="BBC Radio 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/BBC_Radio_3_2022.svg/150px-BBC_Radio_3_2022.svg.png" radio="true",BBC Radio 3
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_radio_three.mpd
 
-#EXTINF:-1  tvg-radio tvg-name="BBC Asian Network" tvg-logo="https://i.imgur.com/Jv7zYcO.png" radio="true",BBC Asian Network
+#EXTINF:-1  tvg-radio="true" tvg-name="BBC Asian Network" tvg-logo="https://i.imgur.com/Jv7zYcO.png" radio="true",BBC Asian Network
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_asian_network.mpd
 
-#EXTINF:-1 tvg-radio tvg-name="truxRadio" tvg-logo="",truxRadio
+#EXTINF:-1 tvg-radio="true" tvg-name="truxRadio" tvg-logo="",truxRadio
 https://uk4freenew.listen2myradio.com/live.mp3?typeportmount=s1_11016_stream_443804397
+
+#EXTINF:-1 tvg-radio="true" tvg-name="Magnum Radio" tvg-logo="",Magnum Radio
+http://78.129.237.51:37425/;stream.mp3
