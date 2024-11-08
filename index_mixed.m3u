@@ -135,7 +135,10 @@ http://tv.utako.moe/nhkg/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHK BSP4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/NHK_BS4K.svg",NHK BSP4K
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
 
-#EXTINF:-1 tvg-id="" tvg-name="TV Tokyo" tvg-logo="https://i.imgur.com/tDyxk0Y.png",TV Tokyo 
+#EXTINF:-1 tvg-id="" tvg-name="NHK BS" tvg-logo="",NHK BS
+http://vthanh.utako.moe/8/index.m3u8
+
+#EXTINF: tvg-id="" tvg-id="" tvg-name="TV Tokyo" tvg-logo="https://i.imgur.com/tDyxk0Y.png",TV Tokyo 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi
@@ -147,8 +150,7 @@ http://vthanh.utako.moe/6/index.m3u8
 #EXTINF:-1 tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax
 http://vthanh.utako.moe/9/index.m3u8
 
-#EXTINF:-1 tvg-id="tokyo_mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1-DTV
-http://tv.utako.moe/mx1/index.m3u8
+
 
 #EXTINF:-1 tvg-id="TokyoMX2.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX2-DTV
 http://tv.utako.moe/mx2/index.m3u8
