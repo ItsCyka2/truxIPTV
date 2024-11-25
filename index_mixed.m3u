@@ -57,8 +57,14 @@ http://fl2.moveonjoy.com/MTV_U/index.m3u8
 #EXTINF:-1 tvg-id="MTV.Live.HDTV.(MTVL).us" tvg-name="MTV Live" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/MTV_Live_%28orange%29.svg/revision/latest?cb=20220317014118", MTV Live
 https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV.Classic.(East).(MTVCL).us" tvg-name="MTV Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/200px-MTV_Classic_US.svg.png",MTV Classic
-http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-id="MTVHits.uk" tvg-name="MTV Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/MTV_Hits_2013_logo.svg/1200px-MTV_Hits_2013_logo.svg.png",MTV Hits
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/508016
+
+#EXTINF:-1 tvg-id="mtvclassic.uk" tvg-name="MTV Classic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/MTV_Classic_2017_logo.svg/1200px-MTV_Classic_2017_logo.svg.png",MTV Classic
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/508014
+
+#EXTINF:-1 tvg-id="mtvmusic.uk" tvg-name="MTV Music" tvg-logo="http://fullboxiptv.com/img/mtvmusic.png",MTV Music
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/508020
 
 #EXTINF:-1 tvg-id="BET.Jams.(BETJ).us" tvg-name="BET Jams" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/8/8f/20210706212206%21BET_Jams_Logo.png" ,BET Jams
 http://fl3.moveonjoy.com/BET_Jams/index.m3u8
@@ -81,10 +87,10 @@ https://ancglobal-abscbn-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HLN.HDTV.(HLNHD).us" tvg-name="HLN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/HLNLogo2023.svg/750px-HLNLogo2023.svg.png",    HLN
 http://fl2.moveonjoy.com/HLN/index.m3u8
 
-#EXTINF:-1 tvg-id="Fox.News.Channel.HDTV.(East).(FNCHD).us" tvg-name="FOX News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",    FOX News Channel
-http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
+#EXTINF:-1 tvg-id="Fox.News.Channel.HDTV.(East).(FNCHD).us" tvg-name="FOX News Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",FOX News Channel
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/592594
 
-#EXTINF:-1 tvg-id="" tvg-name="Teleradyo Serbisyo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/1200px-TeleRadyo_Serbisyo_logo.svg.png",Telradyo Serbisyo
+#EXTINF:-1 tvg-id="" tvg-name="Teleradyo Serbisyo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/1200px-TeleRadyo_Serbisyo_logo.svg.png",Teleradyo Serbisyo
 https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV5 HD" tvg-logo="https://static.wikia.nocookie.net/dxs/images/9/99/TV5_HD_Logo_2023.png/revision/latest/scale-to-width-down/290?cb=20230410113026",TV5 HD
@@ -111,9 +117,6 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:-1 tvg-id="" tvg-name="CNN US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/175px-CNN.svg.png",CNN 2
 https://fl2.moveonjoy.com/CNN/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MSNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/MSNBC_2023.svg/250px-MSNBC_2023.svg.png",MSNBC
-https://fl2.moveonjoy.com/MSNBC/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",ESPN 
 http://143.244.60.30/ESPN/index.m3u8
 
@@ -135,7 +138,7 @@ http://tv.utako.moe/nhkg_fucknihontv.apymx/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NHK BSP4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/NHK_BS4K.svg",NHK BSP4K
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
 
-#EXTINF:-1 tvg-id="" tvg-name="NHK BS" tvg-logo="",NHK BS
+#EXTINF:-1 tvg-id="" tvg-name="NHK BS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHK_BS_2023_logo.svg/1024px-NHK_BS_2023_logo.svg.png",NHK BS
 http://vthanh.utako.moe/8/index.m3u8
 
 #EXTINF: tvg-id="" tvg-id="" tvg-name="TV Tokyo" tvg-logo="https://i.imgur.com/tDyxk0Y.png",TV Tokyo 
@@ -159,9 +162,6 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KBS World" tvg-logo="https://static.cdnlogo.com/logos/k/68/kbs-world.svg",KBS World
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network Cignal Feed" tvg-logo="https://i.postimg.cc/s2XcZJk6/cn.png",Cartoon Network Cignal Feed
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd
-
 #EXTINF:-1 group-title="Kids" tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://i.postimg.cc/s2XcZJk6/cn.png",Cartoon Network Asia
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 
@@ -183,7 +183,7 @@ http://143.244.60.30/NICKELODEON/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="Nicktoons.Network.(East).(NICKTOON).us" tvg-name="NickToons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Nicktoons_2023_Outlined_Logo.png", NickToons East
 http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-id="Nick.Jr..(NicJr).us" tvg-name="NickJr East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/631px-Nick_Jr._logo_2023_%28outline%29.svg.png", NickJr East
+#EXTINF:-1 group-title="Kids" tvg-id="Nick.Jr..(NickJr).us" tvg-name="NickJr East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/631px-Nick_Jr._logo_2023_%28outline%29.svg.png", NickJr East
 http://fl2.moveonjoy.com/NICK_JR/index.m3u8
 
 #EXTINF:-1 tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/150px-BBC_News_2022_%28Alt%29.svg.png",BBC News
@@ -194,6 +194,42 @@ http://185.189.225.200:8085/BBC1/index.m3u8
 
 #EXTINF:-1  tvg-name="BBC Two" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png",BBC Two
 http://185.189.225.200:8085/BBC2/index.m3u8
+
+#EXTINF:-1 tvg-name="BBC Three" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/215px-BBC_Three_2022.svg.png",BBC Three
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/508150
+
+#EXTINF:-1  tvg-name="BBC Four" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/220px-BBC_Four_logo_2021.svg.png",BBC Four
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/508152
+
+#EXTINF:-1  tvg-name="ITV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png" ,ITV 1
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507935
+
+#EXTINF:-1 tvg-name="ITV 1 +1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/ITV_logo_2019.svg/1200px-ITV_logo_2019.svg.png" ,ITV 1 +1
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507936
+
+#EXTINF:-1 tvg-name="ITV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ITV2_logo_%282006-2008%29.svg/1280px-ITV2_logo_%282006-2008%29.svg.png",ITV 2
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507938
+
+#EXTINF:-1  tvg-name="ITV 2 +1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ITV2_logo_%282006-2008%29.svg/1280px-ITV2_logo_%282006-2008%29.svg.png" ,ITV 2 +1
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507939
+
+#EXTINF:-1  tvg-name="ITV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1200px-ITV3_logo_2013.svg.png",ITV 3
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507941
+
+#EXTINF:-1  tvg-name="ITV 3 +1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ITV3_logo_2013.svg/1200px-ITV3_logo_2013.svg.png",ITV 3 +1
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507942
+
+#EXTINF:-1 tvg-id="ITV4.uk" tvg-name="ITV 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/ITV4.svg/1200px-ITV4.svg.png",ITV 4
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507944
+
+#EXTINF:-1 tvg-id="itv4plus1.uk" tvg-name="ITV 4 +1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/ITV4.svg/1200px-ITV4.svg.png",ITV 4 +1
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507945
+
+#EXTINF:-1 tvg-id="ITVBe.uk" tvg-name="ITV Be" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/ITVBe_logo_2014-.svg/1200px-ITVBe_logo_2014-.svg.png",ITV Be
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507947
+
+#EXTINF:-1 tvg-id="E4.uk" tvg-name="E4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/E4_%28channel%29_logo.svg/1200px-E4_%28channel%29_logo.svg.png",E4
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507927
 
 #EXTINF:-1  tvg-radio="true" tvg-name="BBC Radio 1" tvg-logo="https://i.imgur.com/ULEiMU8.png" radio="true",BBC Radio 1
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_radio_one.mpd
@@ -216,8 +252,3 @@ https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/s
 #EXTINF:-1  tvg-radio="true" tvg-name="BBC Asian Network" tvg-logo="https://i.imgur.com/Jv7zYcO.png" radio="true",BBC Asian Network
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_asian_network.mpd
 
-#EXTINF:-1 tvg-radio="true" tvg-name="truxRadio" tvg-logo="",truxRadio
-https://uk4freenew.listen2myradio.com/live.mp3?typeportmount=s1_11016_stream_443804397
-
-#EXTINF:-1 tvg-radio="true" tvg-name="Magnum Radio" tvg-logo="",Magnum Radio
-http://82.145.41.50:39440/;stream.mp3
