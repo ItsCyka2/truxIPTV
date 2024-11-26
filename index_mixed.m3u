@@ -162,38 +162,44 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KBS World" tvg-logo="https://static.cdnlogo.com/logos/k/68/kbs-world.svg",KBS World
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://i.postimg.cc/s2XcZJk6/cn.png",Cartoon Network Asia
+#EXTINF:-1  tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://i.postimg.cc/s2XcZJk6/cn.png",Cartoon Network Asia
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-id="" tvg-logo="https://i.postimg.cc/s2XcZJk6/cn.png",Cartoon Network USA
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/s2XcZJk6/cn.png",Cartoon Network USA
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="",Cartoon Network USA2
+#EXTINF:-1  tvg-logo="",Cartoon Network USA2
 http://extremeplus.org:8080/live/Marionano24/A8TfXJaDkRB6/72604.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-id="" tvg-name="Cartoonito HD" tvg-logo="https://i.postimg.cc/htVMBj9s/Cartoonito-logo-2021-alternate.png", Cartoonito HD
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito HD" tvg-logo="https://i.postimg.cc/htVMBj9s/Cartoonito-logo-2021-alternate.png", Cartoonito HD
 https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 
-#EXTINF:-1  group-title="Kids" tvg-id="" tvg-name="Disney XD" tvg-closed-captions tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/270px-Disney_XD_-_2015.svg.png",Disney XD
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-closed-captions tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/270px-Disney_XD_-_2015.svg.png",Disney XD
 https://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/250px-Nickelodeon_2023_logo_%28outline%29.svg.png", Nickelodeon
+#EXTINF:-1  tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/250px-Nickelodeon_2023_logo_%28outline%29.svg.png", Nickelodeon
 http://143.244.60.30/NICKELODEON/index.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-id="Nicktoons.Network.(East).(NICKTOON).us" tvg-name="NickToons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Nicktoons_2023_Outlined_Logo.png", NickToons East
+#EXTINF:-1  tvg-id="Nicktoons.Network.(East).(NICKTOON).us" tvg-name="NickToons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Nicktoons_2023_Outlined_Logo.png", NickToons East
 http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-id="Nick.Jr..(NickJr).us" tvg-name="NickJr East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/631px-Nick_Jr._logo_2023_%28outline%29.svg.png", NickJr East
+#EXTINF:-1 tvg-id="Nick.Jr..(NickJr).us" tvg-name="NickJr East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/631px-Nick_Jr._logo_2023_%28outline%29.svg.png", NickJr East
 http://fl2.moveonjoy.com/NICK_JR/index.m3u8
 
 #EXTINF:-1 tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/150px-BBC_News_2022_%28Alt%29.svg.png",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
-#EXTINF:-1, tvg-name="BBC One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/190px-BBC_One_logo_2021.svg.png",BBC One 
+#EXTINF:-1, tvg-name="BBC One" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/190px-BBC_One_logo_2021.svg.png",BBC One(FLEXA Networks)
 http://185.189.225.200:8085/BBC1/index.m3u8
 
-#EXTINF:-1  tvg-name="BBC Two" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png",BBC Two
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One" tvg-logo="http://internationalartistsmanagement.co.uk/wp-content/uploads/2016/07/Press-Logo-BBC-One.png",BBC One
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507878
+
+#EXTINF:-1  tvg-name="BBC Two" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png",BBC Two(FLEXA Networks)
 http://185.189.225.200:8085/BBC2/index.m3u8
+
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="BBC Two" tvg-logo="http://img4.wikia.nocookie.net/__cb20100918134247/logopedia/images/thumb/7/73/BBC2_logo_1991.svg/125px-BBC2_logo_1991.svg.png",BBC Two
+http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507880
 
 #EXTINF:-1 tvg-name="BBC Three" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/215px-BBC_Three_2022.svg.png",BBC Three
 http://defaultgen.com:3050/odette99/Z2BQQrHhj3/508150
