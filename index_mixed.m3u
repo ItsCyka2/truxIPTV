@@ -198,7 +198,7 @@ http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507878
 #EXTINF:-1  tvg-name="BBC Two" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/640px-BBC_Two_logo_2021.svg.png",BBC Two(FLEXA Networks)
 http://185.189.225.200:8085/BBC2/index.m3u8
 
-#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="BBC Two" tvg-logo="http://img4.wikia.nocookie.net/__cb20100918134247/logopedia/images/thumb/7/73/BBC2_logo_1991.svg/125px-BBC2_logo_1991.svg.png",BBC Two
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="BBC Two" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/BBC_Two_logo_%28Chameleon_2021-22_rebrand%29.svg/1024px-BBC_Two_logo_%28Chameleon_2021-22_rebrand%29.svg.png",BBC Two
 http://defaultgen.com:3050/odette99/Z2BQQrHhj3/507880
 
 #EXTINF:-1 tvg-name="BBC Three" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/215px-BBC_Three_2022.svg.png",BBC Three
