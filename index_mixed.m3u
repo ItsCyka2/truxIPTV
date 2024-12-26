@@ -258,3 +258,8 @@ https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/s
 #EXTINF:-1  tvg-radio="true" tvg-name="BBC Asian Network" tvg-logo="https://i.imgur.com/Jv7zYcO.png" radio="true",BBC Asian Network
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/cfs/bbc_asian_network.mpd
 
+#EXTINF:-1 tvg-radio="true" tvg-name="Yes FM Cagayan de Oro" tvg-name="104.7 Yes The Best - DXYR" tvg-logo="",104.7 Yes The Best - DXYR
+http://yesfmcdo.radioca.st:8040/stream
+
+#EXTINF:-1 tvg-radio="true" tvg-name="Home Radio" tvg-logo="",Home Radio
+https://hrmanila.radioca.st/stream
