@@ -168,17 +168,24 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
 #EXTINF:-1 tvg-id="" tvg-name="NHK BS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHK_BS_2023_logo.svg/1024px-NHK_BS_2023_logo.svg.png",NHK BS
 http://vthanh.utako.moe/8/index.m3u8
 
-#EXTINF: tvg-id="" tvg-id="" tvg-name="TV Tokyo" tvg-logo="https://i.imgur.com/tDyxk0Y.png",TV Tokyo 
+#EXTINF:-1 tvg-id="TV_Tokyo"  tvg-name="TV Tokyo" tvg-logo="https://i.imgur.com/tDyxk0Y.png",TV Tokyo 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi
+#EXTINF:-1 tvg-id="TV.Asahi" tvg-name="TV Asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi
 http://vthanh.utako.moe/4/index.m3u8
 
 #EXTINF:-1 tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TV Tokyo 
 http://vthanh.utako.moe/6/index.m3u8
 
-#EXTINF:-1 tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax
+#EXTINF:-1 tvg-id="animax" tvg-name="Animax"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax JP
 http://vthanh.utako.moe/9/index.m3u8
+
+#EXTINF:-1 tvg-id="animax.ph" tvg-name="Animax Asia HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax Asia
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+
+#EXTINF:-1 tvg-id="animax.ph" tvg-name="Animax Cignal"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax Asia Cignal
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_animax_sd.mpd
+
 
 #EXTINF:-1 tvg-id="TokyoMX2.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX2-DTV
 http://tv.utako.moe/mx2/index.m3u8
@@ -189,14 +196,8 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KBS World" tvg-logo="https://static.cdnlogo.com/logos/k/68/kbs-world.svg",KBS World
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://i.postimg.cc/s2XcZJk6/cn.png",Cartoon Network Asia
-https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/s2XcZJk6/cn.png",Cartoon Network USA
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
-
-#EXTINF:-1  tvg-logo="",Cartoon Network USA2
-http://extremeplus.org:8080/live/Marionano24/A8TfXJaDkRB6/72604.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Cartoonito HD" tvg-logo="https://i.postimg.cc/htVMBj9s/Cartoonito-logo-2021-alternate.png", Cartoonito HD
 https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
@@ -212,6 +213,15 @@ http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
 
 #EXTINF:-1 tvg-id="Nick.Jr..(NickJr).us" tvg-name="NickJr East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/631px-Nick_Jr._logo_2023_%28outline%29.svg.png", NickJr East
 http://fl2.moveonjoy.com/NICK_JR/index.m3u8
+
+#EXTINF:-1 tvg-id="Dreamworks_Tagalized.PH" tvg-name="Dreamworks Tagalized" tvg-logo="https://static.wikia.nocookie.net/dreamworks/images/e/e6/Site-logo.png/revision/latest?cb=20241001201500",Dreamworks Tagalized
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd
+
+#EXTINF:-1 tvg-id="Dreamworks_Tagalized.PH" tvg-name="Dreamworks" tvg-logo="https://static.wikia.nocookie.net/dreamworks/images/e/e6/Site-logo.png/revision/latest?cb=20241001201500",Dreamworks
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth Cignal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg",BBC Earth Cignal
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_bbcearth_hd1.mpd
 
 #EXTINF:-1 tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/150px-BBC_News_2022_%28Alt%29.svg.png",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
