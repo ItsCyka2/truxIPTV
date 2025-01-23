@@ -117,6 +117,10 @@ https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-id="PTV.4.PH" tvg-name="PTV 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/PTV_4_Para_Sa_Bayan_Logo_June_2017.svg/800px-PTV_4_Para_Sa_Bayan_Logo_June_2017.svg.png",PTV 4
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_ptv4_sd.mpd
 
+#EXTINF:-1 tvg-id="RJDIGI.TV" tvg-name="RJ Digi TV"
+ tvg-logo="",RJ Digi TV
+http://115.146.176.131:80/TimRizal/TimRizal/44.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="TV5 HD" tvg-logo="https://static.wikia.nocookie.net/dxs/images/9/99/TV5_HD_Logo_2023.png/revision/latest/scale-to-width-down/290?cb=20230410113026",TV5 HD
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 
