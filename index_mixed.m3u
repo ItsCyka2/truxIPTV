@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="GNN" tvg-logo="",GNN
+http://115.146.176.131:80/TimRizal/TimRizal/26.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="TP Scan" tvg-logo="",TP Scan GSAT
+http://115.146.176.131:80/TimRizal/TimRizal/17.ts
+
+
 #EXTINF:-1 tvg-id="" tvg-name="BYUtv" tvg-logo="https://i.imgur.com/jq1Jq69.png",BYU TV
 https://content.uplynk.com/channel/2f29cb20fcb74f68a85c38b99ca384bc.m3u8
 
@@ -22,10 +29,10 @@ http://fl2.moveonjoy.com/TNT/index.m3u8
 http://fl2.moveonjoy.com/NBA_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NBA Philippines" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/NBA_TV_Philippines.png/220px-NBA_TV_Philippines.png",NBA Philippines
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd
+http://115.146.176.131:80/TimRizal/TimRizal/97.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="HITS Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png/revision/latest?cb=20210828003911",HITS Movies
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_hitsmovies.mpd
+http://115.146.176.131:80/TimRizal/TimRizal/36.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="HITS Now" tvg-logo="https://cms.cignal.tv/Upload/Images/Hits%20Now.png",HITS Now
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hitsnow.mpd
@@ -37,7 +44,7 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/ibc13_sd.mpd
 
 #EXTINF:-1 tvg-id="HBO.HDTV.(East).(HBOHD).us" tvg-name="HBO East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",HBO East
-http://fl2.moveonjoy.com/HBO/index.
+http://fl2.moveonjoy.com/HBO/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO.2.HDTV.(East).(HBO2HD).us" tvg-name="HBO2 East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO2 East
 http://fl2.moveonjoy.com/HBO_2/index.m3u8
@@ -117,8 +124,7 @@ https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-id="PTV.4.PH" tvg-name="PTV 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/PTV_4_Para_Sa_Bayan_Logo_June_2017.svg/800px-PTV_4_Para_Sa_Bayan_Logo_June_2017.svg.png",PTV 4
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_ptv4_sd.mpd
 
-#EXTINF:-1 tvg-id="RJDIGI.TV" tvg-name="RJ Digi TV"
-tvg-logo="",RJ Digi TV
+#EXTINF:-1 tvg-id="RJDIGI.TV" tvg-name="RJ Digi TV" tvg-logo="",RJ Digi TV
 http://115.146.176.131:80/TimRizal/TimRizal/44.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="TV5 HD" tvg-logo="https://static.wikia.nocookie.net/dxs/images/9/99/TV5_HD_Logo_2023.png/revision/latest/scale-to-width-down/290?cb=20230410113026",TV5 HD
@@ -187,9 +193,8 @@ http://vthanh.utako.moe/9/index.m3u8
 #EXTINF:-1 tvg-id="animax.ph" tvg-name="Animax Asia HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax Asia
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
-#EXTINF:-1 tvg-id="animax.ph" tvg-name="Animax Cignal"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax Asia Cignal
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_animax_sd.mpd
-
+#EXTINF:-1 tvg-id="animax.ph" tvg-name="Animax GSAT"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax Asia Cignal
+http://115.146.176.131:80/TimRizal/TimRizal/59.ts
 
 #EXTINF:-1 tvg-id="TokyoMX2.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX2-DTV
 http://tv.utako.moe/mx2/index.m3u8
