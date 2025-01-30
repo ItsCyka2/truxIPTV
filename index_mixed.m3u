@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="GNN" tvg-logo="",GNN
-http://115.146.176.131:80/TimRizal/TimRizal/26.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TP Scan" tvg-logo="",TP Scan GSAT
-http://115.146.176.131:80/TimRizal/TimRizal/17.ts
-
 
 #EXTINF:-1 tvg-id="" tvg-name="BYUtv" tvg-logo="https://i.imgur.com/jq1Jq69.png",BYU TV
 https://content.uplynk.com/channel/2f29cb20fcb74f68a85c38b99ca384bc.m3u8
@@ -28,21 +22,6 @@ http://fl2.moveonjoy.com/TNT/index.m3u8
 #EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).us" tvg-name="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png",NBA TV
 http://fl2.moveonjoy.com/NBA_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="NBA Philippines" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/NBA_TV_Philippines.png/220px-NBA_TV_Philippines.png",NBA Philippines
-http://115.146.176.131:80/TimRizal/TimRizal/97.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="HITS Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/HITS_MOVIES_ASIA.png/revision/latest?cb=20210828003911",HITS Movies
-http://115.146.176.131:80/TimRizal/TimRizal/36.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="HITS Now" tvg-logo="https://cms.cignal.tv/Upload/Images/Hits%20Now.png",HITS Now
-https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hitsnow.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="HITS HD" tvg-logo="https://cms.cignal.tv/Upload/Images/Hits.png",HITS HD
-https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="IBC 13" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/IBC_13_Logo_2011.svg/800px-IBC_13_Logo_2011.svg.png",IBC 13
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/ibc13_sd.mpd
-
 #EXTINF:-1 tvg-id="HBO.HDTV.(East).(HBOHD).us" tvg-name="HBO East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png",HBO East
 http://fl2.moveonjoy.com/HBO/index.m3u8
 
@@ -64,8 +43,6 @@ http://fl2.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 tvg-id="HBO.2.HDTV.(East).(HBO2HD).us" tvg-name="HBO2 East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO2 East
 http://fl2.moveonjoy.com/HBO_2/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Lotus Macau" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png",Lotus Macau
-https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 
 #EXTINF:-1 tvg-id="Nick.Music.(NICM).us" tvg-name="Nick Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/1280px-NickMusic.svg.png", Nick Music
 http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
@@ -115,23 +92,8 @@ http://defaultgen.com:3050/odette99/Z2BQQrHhj3/592594
 #EXTINF:-1 tvg-id="Cinemo.PH" tvg-name="Cinemo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Cinemo_logo_vectorized.svg/200px-Cinemo_logo_vectorized.svg.png",Cinemo
 https://cinemo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
-#EXTINF:-1 tvg-id="Bilyonaryo.News.Channel.PH" tvg-name="Bilyonaryo News Channel" tvg-logo="https://static.wikia.nocookie.net/tv-philippines/images/c/ce/BilyonaryoNewsChannel_Logo_-_Black_%282024%29.png/revision/latest/scale-to-width-down/180?cb=20241003053046",Bilyonaryo News Channel
-https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/bilyonaryoch.mpd
-
 #EXTINF:-1 tvg-id="" tvg-name="Teleradyo Serbisyo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/1200px-TeleRadyo_Serbisyo_logo.svg.png",Teleradyo Serbisyo
 https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
-
-#EXTINF:-1 tvg-id="PTV.4.PH" tvg-name="PTV 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/PTV_4_Para_Sa_Bayan_Logo_June_2017.svg/800px-PTV_4_Para_Sa_Bayan_Logo_June_2017.svg.png",PTV 4
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_ptv4_sd.mpd
-
-#EXTINF:-1 tvg-id="RJDIGI.TV" tvg-name="RJ Digi TV" tvg-logo="",RJ Digi TV
-http://115.146.176.131:80/TimRizal/TimRizal/44.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="TV5 HD" tvg-logo="https://static.wikia.nocookie.net/dxs/images/9/99/TV5_HD_Logo_2023.png/revision/latest/scale-to-width-down/290?cb=20230410113026",TV5 HD
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
-
-#EXTINF:-1 tvg-id="True.FM.TV.PH" tvg-name=""True FM TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/TRUETV_Logo_2024.png/revision/latest?cb=20241110070654",True FM TV
-https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/truefm_tv.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="TFC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/220px-The_Filipino_Channel_2011_logo.svg.png",TFC HD
 https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
@@ -167,34 +129,31 @@ http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
 http://fl2.moveonjoy.com/ESPN_U/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NHK E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/NHK_Educational_TV_logo.png",NHK E
-http://vthanh.utako.moe/2/index.m3u8
+http://vthanh.utako.moe/NHK_E/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NHK G" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/NHK総合ロゴ2020-.svg",NHK G-DTV
-http://tv.utako.moe/nhkg_fucknihontv.apymx/index.m3u8
+http://luong.utako.moe/nhkg_fucknihontv.apymx/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NHK BSP4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/NHK_BS4K.svg",NHK BSP4K
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+http://luong.utako.moe/bsp4k_testsignal/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NHK BS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/NHK_BS_2023_logo.svg/1024px-NHK_BS_2023_logo.svg.png",NHK BS
-http://vthanh.utako.moe/8/index.m3u8
+http://vthanh.utako.moe/NHK_BS/index.m3u8
 
 #EXTINF:-1 tvg-id="TV_Tokyo"  tvg-name="TV Tokyo" tvg-logo="https://i.imgur.com/tDyxk0Y.png",TV Tokyo 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
 
 #EXTINF:-1 tvg-id="TV.Asahi" tvg-name="TV Asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi
-http://vthanh.utako.moe/4/index.m3u8
+http://vthanh.utako.moe/TV_Asahi/index.m3u8
 
 #EXTINF:-1 tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TV Tokyo 
-http://vthanh.utako.moe/6/index.m3u8
+http://vthanh.utako.moe/TV_Tokyo/index.m3u8
 
 #EXTINF:-1 tvg-id="animax" tvg-name="Animax"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax JP
-http://vthanh.utako.moe/9/index.m3u8
+http://vthanh.utako.moe/Animax/index.m3u8
 
 #EXTINF:-1 tvg-id="animax.ph" tvg-name="Animax Asia HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax Asia
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
-
-#EXTINF:-1 tvg-id="animax.ph" tvg-name="Animax GSAT"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax Asia Cignal
-http://115.146.176.131:80/TimRizal/TimRizal/59.ts
 
 #EXTINF:-1 tvg-id="TokyoMX2.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX2-DTV
 http://tv.utako.moe/mx2/index.m3u8
@@ -208,9 +167,6 @@ https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/s2XcZJk6/cn.png",Cartoon Network USA
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Cartoonito HD" tvg-logo="https://i.postimg.cc/htVMBj9s/Cartoonito-logo-2021-alternate.png", Cartoonito HD
-https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-closed-captions tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/270px-Disney_XD_-_2015.svg.png",Disney XD
 https://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
 
@@ -222,15 +178,6 @@ http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
 
 #EXTINF:-1 tvg-id="Nick.Jr..(NickJr).us" tvg-name="NickJr East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/631px-Nick_Jr._logo_2023_%28outline%29.svg.png", NickJr East
 http://fl2.moveonjoy.com/NICK_JR/index.m3u8
-
-#EXTINF:-1 tvg-id="Dreamworks_Tagalized.PH" tvg-name="Dreamworks Tagalized" tvg-logo="https://static.wikia.nocookie.net/dreamworks/images/e/e6/Site-logo.png/revision/latest?cb=20241001201500",Dreamworks Tagalized
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd
-
-#EXTINF:-1 tvg-id="Dreamworks_Tagalized.PH" tvg-name="Dreamworks" tvg-logo="https://static.wikia.nocookie.net/dreamworks/images/e/e6/Site-logo.png/revision/latest?cb=20241001201500",Dreamworks
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="BBC Earth Cignal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg",BBC Earth Cignal
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_bbcearth_hd1.mpd
 
 #EXTINF:-1 tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/150px-BBC_News_2022_%28Alt%29.svg.png",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
