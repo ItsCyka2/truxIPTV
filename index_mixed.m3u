@@ -78,6 +78,9 @@ https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 tvg-id="HLN.HDTV.(HLNHD).us" tvg-name="HLN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/HLNLogo2023.svg/750px-HLNLogo2023.svg.png",    HLN
 http://fl2.moveonjoy.com/HLN/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Cine Mo!" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/133884a64c6b5b9cb5cf313d11b4ac29.svg",Cinemo
+http://013tv.com:8080/umer.zia660/e7388412/299956
+
 #EXTINF:-1 tvg-id="" tvg-id="" tvg-name="FX East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1000px-FX_International_logo.svg.png", FX East
 http://fl2.moveonjoy.com/FX/index.m3u8
 
